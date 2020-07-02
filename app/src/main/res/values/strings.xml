@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Flash News</string>
+
+    // Country
+    <string name="country">Kraj</string>
+    <string name="flag">Flaga</string>
+
+    // Category
+    <string name="title">WYBIERZ KATEGORIE</string>
+    <string name="general">Ogólne</string>
+    <string name="business">Biznes</string>
+    <string name="entertainment">Rozrywka</string>
+    <string name="health">Zdrowie</string>
+    <string name="science">Nauka</string>
+    <string name="sports">Sport</string>
+    <string name="technology">Technologia</string>
+    <string name="favorite">Ulubione</string>
+
+    // list news
+    <string name="galleryImageDescription">Zdjęcie nagłówka</string>
+    <string name="newsTitle">To jest tytuł artykułu</string>
+    <string name="newsDescription">To jest krótki opis artykułu</string>
+    <string name="newsAuthor">Autor artykułu</string>
+    <string name="newsTime">Data</string>
+    <string name="title_activity_example">Example</string>
+
+
+</resources>
